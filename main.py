@@ -99,7 +99,7 @@ plt.savefig("images/roc_curve.png")
 plt.close()
 
 # =========================
-# Feature  Importance
+# Feature Importance
 # =========================
 
 importance = model.feature_importances_
